@@ -2,7 +2,7 @@
 
 Vincent Yu
 Intro to Computer Music
-Exercise 2
+Exercise 1
 
 Scale Frequencies
 --------------------
